@@ -2,7 +2,7 @@
 int MAX = 10, rear = -1, front = -1;
 int a[10];
 
-void Enqueue()
+void  Enqueue()
 {
     int val;
 
